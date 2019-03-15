@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: 2019_UNESCO_Circassian_sociolinguistics.aux
+The style file: chicago.bst
+Database file #1: /home/agricolamz/work/bibliography.bib
+Warning--no number and no volume in shenfield99
+Warning--empty publisher in stem89
+You've used 13 entries,
+            2861 wiz_defined-function locations,
+            695 strings with 7081 characters,
+and the built_in function-call counts, 7387 in all, are:
+= -- 605
+> -- 424
+< -- 1
++ -- 112
+- -- 156
+* -- 557
+:= -- 1418
+add.period$ -- 40
+call.type$ -- 13
+change.case$ -- 75
+chr.to.int$ -- 13
+cite$ -- 15
+duplicate$ -- 240
+empty$ -- 517
+format.name$ -- 164
+if$ -- 1327
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 16
+newline$ -- 68
+num.names$ -- 132
+pop$ -- 64
+preamble$ -- 1
+purify$ -- 160
+quote$ -- 0
+skip$ -- 246
+stack$ -- 0
+substring$ -- 412
+swap$ -- 80
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 210
+warning$ -- 2
+while$ -- 140
+width$ -- 0
+write$ -- 177
+(There were 2 warnings)
